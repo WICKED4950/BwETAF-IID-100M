@@ -1,14 +1,3 @@
----
-license: mit
-datasets:
-- WICKED4950/Raw-GPT-traindata
-language:
-- en
-metrics:
-- perplexity
-pipeline_tag: text-generation
----
-
 # **BwETAF-IID-100M**  
 **Boring’s Experimental Transformer for Autoregression (Flax)** — A 100M parameter autoregressive model built in Flax. Lightweight, chaotic, and surprisingly good (I mean ok).
 Because who needs sanity when you’ve got tokens to predict?
